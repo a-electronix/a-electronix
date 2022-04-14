@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @a-electronix
 - 👀 I’m interested in embedded software development
 - 🌱 I’m currently learning CI/CD systems with IoT and AI
-- 💞️ I’m looking to collaborate on IoT setup
+- 💞️ I’m looking to collaborate on IoT setup and ISOBUS development
 - 📫 How to reach me info@a-electronix.se
 
 <!---
